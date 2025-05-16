@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>OTG Player Tracker – Terms of Service</title>
+<style>
+ body{font-family:Arial,system-ui,sans-serif;max-width:800px;margin:40px auto;line-height:1.6;color:#e3e3e3;background:#101013}
+ h1,h2{color:#43b581}
+ a{color:#57a6ff;text-decoration:none}
+ a:hover{text-decoration:underline}
+ code{background:#1e1e24;padding:2px 4px;border-radius:4px}
+</style>
+</head>
+<body>
+<h1>Terms of Service</h1>
+
+<p>These Terms govern your use of the <strong>OTG Player Tracker</strong> Discord bot (“<em>Bot</em>”). By invoking the Bot in any Discord server, you agree to these Terms.</p>
+
+<h2>1. Description</h2>
+<p>The Bot builds Tracker.gg profile links (and, when available, basic stats) for the game <em>Off The Grid</em>.</p>
+
+<h2>2. Eligibility &amp; Discord Compliance</h2>
+<ul>
+  <li>You must comply with <a href="https://discord.com/terms" target="_blank">Discord Terms of Service</a> and <a href="https://discord.com/guidelines" target="_blank">Community Guidelines</a>.</li>
+  <li>Server administrators may remove or restrict the Bot at any time.</li>
+</ul>
+
+<h2>3. Acceptable Use</h2>
+<ul>
+  <li>No spamming, flooding, or automated abuse of slash commands.</li>
+  <li>No attempts to reverse‑engineer, exploit, or modify the Bot.</li>
+</ul>
+
+<h2>4. Third‑Party Services</h2>
+<p>The Bot links to <a href="https://tracker.gg/" target="_blank">Tracker.gg</a>. All data displayed there is subject to Tracker Network’s own Terms and Privacy Policy.</p>
+
+<h2>5. Disclaimer of Warranty</h2>
+<p>The Bot is provided “<strong>as is</strong>” with no warranties of any kind. Functionality may change or be discontinued at any time.</p>
+
+<h2>6. Limitation of Liability</h2>
+<p>In no event will the developer be liable for indirect, incidental, or consequential damages arising from your use of the Bot.</p>
+
+<h2>7. Termination</h2>
+<p>We may disable the Bot globally or on specific servers without notice for any reason.</p>
+
+<h2>8. Changes to These Terms</h2>
+<p>We may update these Terms. Continued use of the Bot after changes constitutes acceptance.</p>
+
+<h2>9. Contact</h2>
+<p>Questions? https://discord.gg/3PTMf8U3Gx
+
+</body>
+</html>
